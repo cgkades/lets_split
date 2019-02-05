@@ -38,3 +38,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define CONFIG_USER_H
 #include "../../config.h"
 #define AUTO_SHIFT_TIMEOUT 180
+#define TAPPING_TERM 200
